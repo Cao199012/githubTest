@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/id_add"
+        android:title="Add"
+        android:icon="@drawable/common_ic_googleplayservices">
+
+    </item>
+    <item android:id="@+id/id_remove"
+        android:title="Remove">
+
+    </item><item android:id="@+id/id1_remove"
+        android:title="Remove">
+
+    </item><item android:id="@+id/id2_remove"
+        android:title="Remove">
+
+    </item><item android:id="@+id/id3_remove"
+        android:title="Remove">
+
+    </item>
+</menu>
